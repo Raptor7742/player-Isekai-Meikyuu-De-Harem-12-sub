@@ -37,7 +37,7 @@ const playerInstance = jwplayer("player").setup({
         },
         {
           file:
-            "",
+            "https://m204.syncusercontent.com/mfs-60:eeaa4b0beff30377f2081d6e3cffe476=============================/p/Isekai.Meikyuu.De.Harem.O.S01e12.Unrated.Vostfr.1080P.Hdtv.X264.mp4?allowdd=0&datakey=iJQI3+JlM5eoIVP1FkXbcI3oKPMx9erWveVBNqMV80mrvg9a/s20eEKcHqMWkp9a+NzuttHTBIcd7SwzF9zHxsTbC1555Wtu501G23Z5qtPmTS/PUaYiqmqMeWWCn4mYO7th8wXHL12t7SIFx7rXFwnBzCW6gpEzCLbkWf9SnQ62+m0z4eELj7NGHw6dEVOf2dyk3xXIkOYB+XYtujw58ZRmcL1UBaGBZUaeuBIAJTfQpIf2lpSBl5VA2hM2p0YRzcnSdf6c5SHFPjvAgXULRYahM58lbKmKpEc3i1mdvabgGtO73Ky9JLB49M/MNapbrplv6nGqWKa2iRRPNgHYbg&engine=ln-2.3.7.3&errurl=McbcoFOkBg4z8RgbJVyFN8d2hN4l/2gxt/JNFZnbLRBBrvP3m+qr8ClIIImemy9oVAnmpwzQOUhQILrRK750TdwF+8j/Ubdu6qHIzqvq21vW7/ZBZYZNEffp1arilzpFoVKEitor8YM2YUVC9Z/7dfxMdvD+AORkMMU20dVI1vPfo7vLYeCw7t0qtDtUJJN1uduo2JGUQ1KAvFj6TQRoI/Am/GXCky3deljZ7w2DlhtNElKVnRhcV5fXF5ql35e3f3WQPVPrBb+EgC6AjSMM4wQ4Ws2D2+OnhkLNgqqERWA21q6EzIhnzdc8h7vqLiCMWLpTg27EQwBxmvfcGAlU1w==&header1=Q29udGVudC1UeXBlOiB2aWRlby9tcDQ&header2=Q29udGVudC1EaXNwb3NpdGlvbjogaW5saW5lOyBmaWxlbmFtZT0iSXNla2FpLk1laWt5dXUuRGUuSGFyZW0uTy5TMDFlMTIuVW5yYXRlZC5Wb3N0ZnIuMTA4MFAuSGR0di5YMjY0Lm1wNCI7ZmlsZW5hbWUqPVVURi04JydJc2VrYWkuTWVpa3l1dS5EZS5IYXJlbS5PLlMwMWUxMi5VbnJhdGVkLlZvc3Rmci4xMDgwUC5IZHR2LlgyNjQubXA0Ow&ipaddress=1458994159&linkcachekey=aa0e898e0&linkoid=652170001&mode=101&sharelink_id=9104619980001&timestamp=1672599178139&uagent=220523ca5285197b0fad467e0e72e6907a6c5738&signature=20532568b2ebbb84eba57f06a1ac68b6f1a32213&cachekey=60:eeaa4b0beff30377f2081d6e3cffe476=============================",
           label: "720p"
         },
         {
