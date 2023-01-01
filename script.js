@@ -25,7 +25,7 @@ const playerInstance = jwplayer("player").setup({
 
   playlist: [
     {
-      title: "Isekai Meikyuu De Harem - épisode 1 VOSTFR",
+      title: "Isekai Meikyuu De Harem - épisode 12 VOSTFR",
       description: "Vous regardez",
       image: "https://i0.wp.com/anitrendz.net/news/wp-content/uploads/2022/03/isekaimeikyuudeharemwo_keyvisual-1-e1648179739159.jpg?resize=696%2C391&ssl=1",
       sources: [
